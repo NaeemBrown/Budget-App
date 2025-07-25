@@ -1,12 +1,5 @@
 # BudgetApp
 
-## Team Members
-- **Mohlao Makhale** - St10082707
-- **Calvin Fourie** - ST10121193
-- **Naeem Brown** - ST10231877
-- **Ben Rush** - ST10132792
-- **Jaiden Charles** - st10145509
-
 ---
 
 ## Purpose of the App
